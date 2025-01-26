@@ -6,6 +6,8 @@
     <RootNamespace>Arrya_Problem</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <StartupObject>Arrya_Problem.sum_array</StartupObject>
+    <PlatformTarget>AnyCPU</PlatformTarget>
   </PropertyGroup>
 
 </Project>
